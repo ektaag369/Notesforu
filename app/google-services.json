@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "844879539560",
+    "firebase_url": "https://notesforu-15547-default-rtdb.firebaseio.com",
+    "project_id": "notesforu-15547",
+    "storage_bucket": "notesforu-15547.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844879539560:android:0eabca81ef70c67bbe7add",
+        "android_client_info": {
+          "package_name": "com.example.notesforu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844879539560-ielqdoti3kkcnq9q37edfsdvhh5f3799.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.notesforu",
+            "certificate_hash": "d4e5579901109de8194640a5c6075901e458bbfd"
+          }
+        },
+        {
+          "client_id": "844879539560-lmcm2as0r341qfk42ocqs51tt22dgni2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvSSrQsatsiYc1jYK-igO9JvOcLd6LMoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844879539560-lmcm2as0r341qfk42ocqs51tt22dgni2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
